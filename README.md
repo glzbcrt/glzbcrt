@@ -16,7 +16,8 @@ You can reach me using the following e-mails:
 | [my-env](https://github.com/glzbcrt/my-env)                                      |Contains the environment settings I use.                                                   |
 | [cuda-python](https://github.com/glzbcrt/cuda-python)                            |A small sample Python I created to learn about Python and C interop, and CUDA programming. |
 | [tf-onnx-sample](https://github.com/glzbcrt/tf-onnx-sample)                      |Sample application to classify images using Tensorflow and ONNX.                           |
-| [azure-scripts-and-queries](https://github.com/glzbcrt/azure-scripts-and-queries)| Sample scripts and queries I created and might help others.                               |
+| [azure-scripts-and-queries](https://github.com/glzbcrt/azure-scripts-and-queries)|Sample scripts and queries I created and might help others.                                |
+| [my-talks](https://github.com/glzbcrt/my-talks)                                  |Talks I presented.                                                                         | 
 
 ### ⭐ Repositories I recommend
 
