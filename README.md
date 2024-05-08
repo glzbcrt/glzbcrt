@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-George here, partner solution architect @ Microsoft! Here you will find my repositories.
+George here, partner solution architect @ Microsoft! Here you will find my repositories, some books and repositories I recommend.
 
 ### 📫 How to reach me:
 You can reach me using the following e-mails:
