@@ -4,9 +4,9 @@ George here, partner solution architect @ Microsoft! Here you will find my repos
 
 ### 🥰 My Repositories
 
-| Repository | Description    |
-|------------|----------------|
-| [my-env](https://github.com/glzbcrt/my-env)    | Contains |
+| Repository                                     | Description                            |
+|------------------------------------------------|----------------------------------------|
+| [my-env](https://github.com/glzbcrt/my-env)    |Contains the environment settings I use.|
 
 
 ### 📚 Books I recommend:
