@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-George here, PSA @ Microsoft!
-Here you will find my repositories.
+George here, partner solution architect @ Microsoft! Here you will find my repositories.
+
+### Books I recommend:
+
+#### Artificial Inteliggence
+1. Designing Machine Learning Systems
 
 <!--
 **glzbcrt/glzbcrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
