@@ -2,8 +2,7 @@
 
 George here, partner solution architect @ Microsoft! Here you will find my repositories.
 
-### 📫 How to reach me: ...
-
+### 📫 How to reach me:
 You can reach me using the following e-mails:
 1. george@georgeluiz.com
 2. george.bittencourt@microsoft.com
@@ -15,6 +14,10 @@ You can reach me using the following e-mails:
 | [my-env](https://github.com/glzbcrt/my-env)          |Contains the environment settings I use.                                                   |
 | [cuda-python](https://github.com/glzbcrt/cuda-python)|A small sample Python I created to learn about Python and C interop, and CUDA programming. |
 
+
+### ⭐ Repositories I recommend
+
+1. [Contoso Chat](https://github.com/Azure-Samples/contoso-chat/)
 
 ### 📚 Books I recommend:
 
