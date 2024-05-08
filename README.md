@@ -4,9 +4,10 @@ George here, partner solution architect @ Microsoft! Here you will find my repos
 
 ### 🥰 My Repositories
 
-| Repository                                     | Description                            |
-|------------------------------------------------|----------------------------------------|
-| [my-env](https://github.com/glzbcrt/my-env)    |Contains the environment settings I use.|
+| Repository                                           | Description                                                                               |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| [my-env](https://github.com/glzbcrt/my-env)          |Contains the environment settings I use.                                                   |
+| [cuda-python](https://github.com/glzbcrt/cuda-python)|A small sample Python I created to learn about Python and C interop, and CUDA programming. |
 
 
 ### 📚 Books I recommend:
