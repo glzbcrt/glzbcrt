@@ -36,6 +36,15 @@ You can reach me using the following e-mails:
 
 1. [Patterns of Distributed Systems](https://www.amazon.com.br/Patterns-Distributed-Systems-Addison-Wesley-Signature-ebook/dp/B0CCD3F8BH/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2CMYSK57VJ2TN&dib=eyJ2IjoiMSJ9.B8V0GgbmdwDvJtmhTW1rDKoMJ22xh91jmO4788pQt9K6nlETtlXVs7LFnVt1p6YbORL40XNEXze2Vic7xRXaHQsnyJxLCv1znI2JvAXZzJz78jfg7e8KADYhmpKciA-dtfsqmUd9VHCwguCtH54LID3gCCScTkI_6LRDdLE71KhG6phTv_yS8Zn9deBSd5O7HXocSZpDLxObtUZ174GJ0csHA45g5uFm2tA6HGJVmyAAjBBx9KgyaFutSXjqF5Ml0YjLavducFz_wnjIaZ58NgY8U2XJAgf2UxEHplhDiVg.F6mhz1RIDzvviJIAucNEKSVkWn3LLChcXHOAoSIw9vk&dib_tag=se&keywords=distributed+systems&qid=1715176945&sprefix=distributed+system%2Caps%2C199&sr=8-5) by Unmesh Joshi
 
+### 🗺️ Mind Maps:
+
+I love mind maps, and I created the ones below. Some of them are in the very beginning, and some are final.
+Let me know if you like it! 
+
+- [Optimizing Models](https://mm.tt/app/map/3679049154?t=oJNiukh9kz)
+- [Retrieval Augmented Generation](https://mm.tt/app/map/3678578477?t=Gg4ZmBQQuI)
+- [Building Agents @ Microsoft](https://mm.tt/app/map/3657028392?t=x2w3szC3YB)
+- [Creating Language Models](https://mm.tt/app/map/3669096808?t=YwmTuDaQMz)
 
 <!--
 **glzbcrt/glzbcrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
